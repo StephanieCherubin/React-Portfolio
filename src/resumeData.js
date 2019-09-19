@@ -1,33 +1,33 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "name": "Stephanie Cherubin",
+    "role": "Frontend Developer & Full Stack",
     "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "twitterid": "Your twitterid",
+    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or make Javascript games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/stephanie-cherubin/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/StephanieCherubin/",
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
+          "name":"twitter",
           "url":"http://twitter.com/rbhatia46",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am currently a senior year student at Make School and pursuing my B.S. I am a Full Stack Web Developer. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "address":"...",
+    "website":"",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
+        "UniversityName":"Make School",
         "specialization":"Some specialization",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2020",
@@ -91,16 +91,6 @@ let resumeData = {
         "imgurl":"images/portfolio/phone.jpg"
       }
     ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
-    ]
   }
   
   export default resumeData
